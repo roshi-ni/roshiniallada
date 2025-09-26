@@ -1,15 +1,15 @@
-# Hi there 👋 I’m Roshini
+# Hi there I’m Roshini
 
-🎓 MCA Graduate | 🚀 Aspiring DevOps Engineer | 💼 Internship Experience at Piersoft Technologies  
+MCA Graduate | Aspiring DevOps Engineer | Internship Experience at Piersoft Technologies  
 
 I’m passionate about automation, cloud technologies, and CI/CD practices.  
 
-🛠️ **Tools I work with:**  
+**Tools I work with:**  
 Git · Jenkins · Docker · Kubernetes · ArgoCD · Terraform · Ansible · AWS · Prometheus · Grafana · Loki · SonarQube · Linux · Maven  
 
 ---
 
-## 🌟 Projects
+## Projects
 
 - **CI/CD Pipeline with Jenkins & Docker** – Automated build and deployment of a Java app  
 - **AWS Infrastructure Automation with Terraform & Ansible** – Provisioned AWS resources and deployed Tomcat  
@@ -19,7 +19,7 @@ Git · Jenkins · Docker · Kubernetes · ArgoCD · Terraform · Ansible · AWS 
 
 ---
 
-## 📫 How to reach me
+## How to reach me
 - **Email:** [roshiniallada21@gmail.com](mailto:roshiniallada21@gmail.com)  
 - **LinkedIn:** [Roshini Allada](https://www.linkedin.com/in/roshini-allada-a23165297)
 
